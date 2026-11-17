@@ -18,10 +18,11 @@ print(Fore.CYAN + """
 ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═══╝╚═════╝
 """)
 
-print(Fore.GREEN + "=" * 55)
+print(Fore.GREEN + "=" * 50)
 print(Fore.YELLOW + "        WEBSITE DIRECTORY FINDER")
-print(Fore.GREEN + "=" * 55)
-
+print(Fore.YELLOW + "        Directory Finder v1.1")
+print(Fore.GREEN + "         Developed by Sejoshack")
+print(Fore.GREEN + "=" * 50)
 # User input
 target = input(
     Fore.CYAN +
