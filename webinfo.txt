@@ -1,0 +1,31 @@
+
+====================================
+URL : https://google.com
+STATUS CODE : 200
+SERVER : gws
+CONTENT TYPE : text/html; charset=ISO-8859-1
+CONTENT LENGTH : None
+
+[HTTP HEADERS]
+Content-Type : text/html; charset=ISO-8859-1
+Date : Wed, 27 May 2026 11:09:41 GMT
+Expires : -1
+Cache-Control : private, max-age=0
+Content-Security-Policy-Report-Only : object-src 'none';base-uri 'self';script-src 'nonce-3qfC1yV8WqZ3fKMAi6yDog' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Accept-CH : Sec-CH-Prefers-Color-Scheme
+P3P : CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Encoding : gzip
+Server : gws
+X-XSS-Protection : 0
+X-Frame-Options : SAMEORIGIN
+Set-Cookie : __Secure-STRP=ANmZwa2cZkdyXzBB0ZbxJJjHG74ZCFX6Kw2kz0QHyapvq681h-e29bYskSvBJoqUPSiAdygIfLQv6xqO8em7TzR7h42iCHWQksHc; expires=Wed, 27-May-2026 11:14:41 GMT; path=/; domain=.google.com; Secure; SameSite=strict, AEC=AaJma5vaM96nYxEM44rCermnSEujU2W7z55QwuMcyaY3rdJidSx2stLvcA; expires=Mon, 23-Nov-2026 11:09:41 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=531=ec6AQT00idSx_S3tp8oeS7b-UcdGgVN_8FR_Hgha8uDuzOV_W20K-7xK-IWg6b4ouuXbrcsRF6sWz-s-aQbnKKPHYsKAeOEQ4_wGj4seqcJuQMlx99TRXuWYC_tGJRZFKQonBPJLshuNcwfXgb9vXN4V4sBDkcJMGlZIRZPuNtiL0aLV_8jH1AkwLQo7RRH5VBELNj7LFiXmnrrIvf_-Mi0; expires=Thu, 26-Nov-2026 11:09:41 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc : h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Transfer-Encoding : chunked
+
+TIME STARTED : 1779880176.8185816
+TIME FINISHED : 1779880180.49877
+
+ERROR : HTTPSConnectionPool(host='chuka.co.ke', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='chuka.co.ke', port=443): Failed to resolve 'chuka.co.ke' ([Errno -2] Name or service not known)"))
+
+TIME STARTED : 1779892776.9269292
+TIME FINISHED : 1779892791.0837169

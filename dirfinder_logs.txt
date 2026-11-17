@@ -1,0 +1,80 @@
+
+====================================
+TARGET : https://motion-guard.netlify.app
+[NOT FOUND] https://motion-guard.netlify.app/admin (404)
+[NOT FOUND] https://motion-guard.netlify.app/login (404)
+[NOT FOUND] https://motion-guard.netlify.app/dashboard (404)
+[NOT FOUND] https://motion-guard.netlify.app/uploads (404)
+[NOT FOUND] https://motion-guard.netlify.app/images (404)
+[NOT FOUND] https://motion-guard.netlify.app/backup (404)
+[NOT FOUND] https://motion-guard.netlify.app/config (404)
+[NOT FOUND] https://motion-guard.netlify.app/api (404)
+[NOT FOUND] https://motion-guard.netlify.app/test (404)
+[NOT FOUND] https://motion-guard.netlify.app/robots.txt (404)
+
+TIME STARTED : 1779975300.0846007
+TIME FINISHED : 1779975309.823905
+
+====================================
+TARGET : https://google.com
+[NOT FOUND] https://google.com/admin (404)
+[NOT FOUND] https://google.com/login (404)
+[FOUND] https://google.com/dashboard (200)
+[NOT FOUND] https://google.com/uploads (404)
+[FOUND] https://google.com/images (200)
+[NOT FOUND] https://google.com/backup (404)
+[NOT FOUND] https://google.com/config (404)
+[NOT FOUND] https://google.com/api (404)
+[NOT FOUND] https://google.com/test (404)
+[FOUND] https://google.com/robots.txt (200)
+
+TIME STARTED : 1779975625.759525
+TIME FINISHED : 1779975642.48848
+
+====================================
+TARGET : https://na8ivas.com
+[ERROR] https://na8ivas.com/admin
+[ERROR] https://na8ivas.com/login
+[ERROR] https://na8ivas.com/dashboard
+[ERROR] https://na8ivas.com/uploads
+[ERROR] https://na8ivas.com/images
+[ERROR] https://na8ivas.com/backup
+[ERROR] https://na8ivas.com/config
+[ERROR] https://na8ivas.com/api
+[ERROR] https://na8ivas.com/test
+[ERROR] https://na8ivas.com/robots.txt
+
+TIME STARTED : 1779976239.2880888
+TIME FINISHED : 1779976243.0103352
+
+====================================
+TARGET : https://github.com
+[NOT FOUND] https://github.com/admin (404)
+[FOUND] https://github.com/login (200)
+[FOUND] https://github.com/dashboard (200)
+[FOUND] https://github.com/uploads (200)
+[NOT FOUND] https://github.com/images (404)
+[FOUND] https://github.com/backup (200)
+[FOUND] https://github.com/config (200)
+[NOT FOUND] https://github.com/api (404)
+[FOUND] https://github.com/robots.txt (200)
+[FOUND] https://github.com/test (200)
+
+TIME STARTED : 1779977266.729794
+TIME FINISHED : 1779977280.2118146
+
+====================================
+TARGET : https://google.com
+[NOT FOUND] https://google.com/admin (404)
+[NOT FOUND] https://google.com/login (404)
+[FOUND] https://google.com/dashboard (200)
+[NOT FOUND] https://google.com/uploads (404)
+[FOUND] https://google.com/images (200)
+[NOT FOUND] https://google.com/backup (404)
+[NOT FOUND] https://google.com/config (404)
+[NOT FOUND] https://google.com/api (404)
+[FOUND] https://google.com/robots.txt (200)
+[NOT FOUND] https://google.com/test (404)
+
+TIME STARTED : 1779978396.9727805
+TIME FINISHED : 1779978415.7235405

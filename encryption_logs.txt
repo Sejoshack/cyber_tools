@@ -1,0 +1,5 @@
+
+====================================
+FILE : secret.txt
+ENCRYPTED : secret.txt.encrypted
+TIME : 1779963738.168407
